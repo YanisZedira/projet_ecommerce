@@ -5,7 +5,7 @@
 
 # Guide d'installation et de lancement du projet
 
-## 1. Installation des dépendances
+## 1.Installation des dépendances
 
 Pour installer les bibliothèques nécessaires au projet, exécutez la commande suivante dans le terminal :
 
